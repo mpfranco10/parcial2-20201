@@ -1,0 +1,11 @@
+{
+	"Header":"Peliculas",
+	"Name": "Nombre",
+	"Directedby": "Dirigido por",
+	"Country": "Pais",
+	"Budget": "Presupuesto",
+	"Release": "Estreno",
+	"Views": "Vistas",
+	"Million" : " Millón",
+	"Millions" : " Millones"
+}

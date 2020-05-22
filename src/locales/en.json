@@ -1,0 +1,11 @@
+{
+	"Header":"Movies",
+	"Name": "Name",
+	"Directedby": "Directed by",
+	"Country": "Country",
+	"Budget": "Budget",
+	"Release": "Release",
+	"Views": "Views",
+	"Million" : " Million",
+	"Millions" : " Millions"
+}
